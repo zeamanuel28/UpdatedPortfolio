@@ -173,7 +173,7 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "devops enginner",
+    title: "devops Enginner",
     desc: "I use various DevOps tools like Git, Docker, Kubernetes, Jenkins, Terraform, and AWS to automate deployments and manage cloud infrastructure efficiently..",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
