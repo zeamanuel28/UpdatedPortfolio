@@ -107,7 +107,7 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with zeamanuel was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with zeamanuel was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. zeamanuel enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
     name: "eyob samuel",
     title: "quadrant innovation,quantum tecnology",
   },
@@ -119,7 +119,7 @@ export const testimonials = [
   },
   {
     quote:
-      "Collaborating with zeamanuel was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with zeamanuel was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. zeamanuel enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
     name: "eyobe samuel",
     title: "quadrant innovation,quantum tecnology",
   },
