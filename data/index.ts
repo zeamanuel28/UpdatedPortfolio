@@ -80,7 +80,7 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
+    title: "",
     des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
@@ -113,7 +113,7 @@ export const testimonials = [
   },
   {
     quote:
-      "Collaborating with zeamanuel was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. zeamanuel's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with zeamanuel was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. zeamanuel's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, zeamanuel is the ideal partner.",
     name: "eyobe samuel",
     title: "quadrant innovation,quantum tecnology",
   },
@@ -126,13 +126,13 @@ export const testimonials = [
   {
     quote:
       "Collaborating with zeamanuel was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. zeamanuel's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "samuel smauel",
+    name: "eyobe  smauel",
     title: "quadrant innovation,quantum tecnology",
   },
   {
     quote:
       "Collaborating with zeamanuel was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. zeamanuel's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "samuel Johnson",
+    name: "eyobe samuel ",
     title: "quadrant innovation,quantum tecnology",
   },
 ];
