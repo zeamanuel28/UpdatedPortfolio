@@ -96,9 +96,9 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
+    title: "Travel and Explore",
+    des: "Travel website helps users explore destinations, book flights, hotels, and activities, and plan trips efficiently. It provides travel guides, price comparisons, and personalized recommendations for a seamless travel experience",
+    img: "/Travel.jpeg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "/ui.apple.com",
   },
@@ -181,7 +181,7 @@ export const workExperience = [
   
   {
     id: 2,
-    title: "fullstack devloper ",
+    title: "fullstack devloper",
     desc: "I use full-stack technologies like MERN (MongoDB, Express, React, Node.js) and Next.js to build dynamic, scalable, and high-performance web applications.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
