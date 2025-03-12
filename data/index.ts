@@ -88,9 +88,9 @@ export const projects = [
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
+    title: "Telegram Bot",
+    des: "It can perform various tasks such as sending messages, responding to commands, providing information, and integrating with third-party services.",
+    img: "/TelegramBot.jpeg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
     link: "/ui.aiimg.com",
   },
